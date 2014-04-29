@@ -1,0 +1,7 @@
+{
+  "shell-version": ["3.10"],
+  "uuid": "replace-system-alt-switcher@emilio.sanchez.gmail.com",
+  "name": "Replace System Alt Switcher",
+  "description": "Remove the powerOff/suspend alt switcher and replace it with two buttons (Suspend and PowerOff)",
+  "version": 1
+}
